@@ -1,0 +1,1 @@
+run `npm install`, followed by `npx cypress open` to reproduce the issue
